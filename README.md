@@ -32,8 +32,3 @@ You then have the option of saving this profile if it is indeed unique.
 **Lisence**
 
 MIT
-
-
-**Maintained by**
-
-Raghav Dua
