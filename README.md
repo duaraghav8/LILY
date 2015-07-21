@@ -20,8 +20,8 @@ python lily_login.py
 
 **Usage**
 
-*Coming Soon*
-
+Click on "Upload side face Image" to upload an image of a lion facing left or right. Based on the direction of the facing, click on "Create Right / Left Profile". In the grid, mark the first point as the tip of the lion's nose. The second point should be the single black spot in the Top row. Next, mark all the spots in the middle row and then, mark the single spot in the 3rd row. If you mess up, there's always a "Clean up" option available. If you've done that successfully, click on "Calculate Distances". This displays the Euclidean and Manhattan Distances. You can then select "Compare with existing Right/Left Profiles" to check whether a profile marked in this pattern already exists or not, which will tell whether the lion profile we created is a new one or an already existing one.
+You then have the option of saving this profile if it is indeed unique.
 
 **Lisence**
 
