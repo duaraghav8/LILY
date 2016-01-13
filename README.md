@@ -1,3 +1,5 @@
+[NOTE: Work on LILY had stopped around May, 2015. I no longer maintain it.]
+
 # Lion-Identification-Loss-less-Yield
 
 **Intro**
