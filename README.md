@@ -1,4 +1,6 @@
-[NOTE: Work on LILY had stopped around May, 2015. I no longer maintain it.]
+![alt text](https://cloud.githubusercontent.com/assets/12758282/16018532/779eb666-31c2-11e6-9ec5-231260c35ed8.png "Screenshot")
+
+This is an early version of LILY. I would upload the full software, but only after a LONG time
 
 # Lion-Identification-Loss-less-Yield
 
